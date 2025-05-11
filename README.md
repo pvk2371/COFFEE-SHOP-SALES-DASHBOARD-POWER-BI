@@ -61,7 +61,7 @@ Optimizes staffing and inventory based on time-based patterns.
 Improves understanding of customer buying behavior.
 Supports strategic planning with MoM performance tracking.
 
-  - Key Insights:
+  -Key Insights:
 Sales peaks by date, time, and location.
 Top-performing products and categories.
 Weekday vs. weekend sales variations.
